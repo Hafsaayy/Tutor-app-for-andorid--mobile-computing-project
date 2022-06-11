@@ -1,2 +1,3 @@
 # Tutor-app-for-andorid--mobile-computing-project
-this is a tutors app created in andorid studio
+-This is a tutors app created in andorid studio
+-This can be used as semester project
